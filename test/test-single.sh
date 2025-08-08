@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#test
 set -e
 TMPDIR=`mktemp -d`
 CGIMAP_PIDFILE=$TMPDIR/cgimap.pid
